@@ -2,64 +2,54 @@
 layout: default
 ---
 
-I'm a passionate developer specialized in mobile and embedded systems.  
+I'm a passionate developer working mainly with mobile and embedded systems.  
  
-I've experience in iOS, Android, Xamarin, various embedded architectures, C#, Javascript, C & C++.  
-I'm currently focusing on mobile development (in love with Swift!) and I have good eye for project management, having the big picture in my mind helps planning my tasks in the big scheme of things.  
+I have experience in iOS, Android, Xamarin, various embedded architectures, C#, Javascript, C & C++.  
+I'm currently focusing on iOS development and I have a good eye for project management: having the big picture in my mind helps me plan tasks efficently in the great scheme of things.  
 
 I love everything related to programming and technology in general and I'm a supporter of the [hacker culture](https://en.wikipedia.org/wiki/Hacker_culture). 
 
-Below you will find some projects I've worked in my spare time, feel free to check them out.    
+Below you will find some projects I've worked on in my spare time. Feel free to check them out.    
      
-## PROJECTS 
+## SIDE PROJECTS 
 A list of projects I've developed in my spare time over the years.  
 It goes without saying that discontinued and old projects didn't make it, but they will always have a place on my hard drive! :-)
 
-* **[Merlo for twitter](http://www.merloapp.com)**  
+* **[TouchBoard](http://www.timelabs.io/touchboard)**  
+A visual shortcuts Ninja!  
+
+* **[Merlo for twitter](http://www.timelabs.io/merlo)**  
 Daily reports, statistics and insights on your twitter account.   
 
-* **[Invoices for Zipbooks](https://github.com/xeo-it/zipbooks-invoices-swift)**  
+* **[Poggy](https://github.com/timefrancesco/poggy)**  
+An open source  Watch app to quickly set and trigger actions from your wrist.  
+
+* **[Invoices for Zipbooks](https://github.com/timefrancesco/zipbooks-invoices-swift)**  
 A simple iOS open source client for [Zipbooks](http://www.zipbooks.com) invoicing.  
 
 * **[ReadingPack](http://www.readingpack.com/ios)**  
 The official iOS ReadingPack client for iPhone and iPad.  
 
-* **[TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8)**  
+* **[TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8&at=1001lpzu)**  
 Download your complete twitter history on your iPhone, search trough it or jump to any day you've tweeted something.  
 
-* **[Slide Calendar](https://github.com/xeo-it/slide-calendar)**  
+* **[Slide Calendar](https://github.com/timefrancesco/slide-calendar)**  
 An open source Xamarin component for iOS. A simple and clear calendar.  
 
-* **[CbrConverter](https://github.com/xeo-it/cbr-converter)**  
+* **[CbrConverter](https://github.com/timefrancesco/cbr-converter)**  
 Convert your pdf to cbr and vice-versa. Open source, for windows and osx.  
 
 * **[Ebay search scheduler](http://www.frapps.net/ebay-search-scheduler/)**  
 Schedule ebay searches and receive an email when the results match the parameters.  
 
 ## WHERE TO FIND ME
-[GitHub](https://github.com/xeo-it)  
-[Twitter](http://www.twitter.com/xeo_it)  
+[GitHub](https://github.com/timefrancesco)  
+[Twitter](http://www.twitter.com/timefrancesco)  
 [Linkedin](https://www.linkedin.com/in/francescopretelli)  
-[Medium](https://medium.com/@xeo_it)  
-[Instagram](https://www.instagram.com/xeo_it/)  
+[Medium](https://medium.com/@timefrancesco)  
+[Instagram](https://www.instagram.com/francesco.pretelli/)  
 [Flickr](https://www.flickr.com/photos/francesco-pretelli/)  
-[AngelList](https://angel.co/francesco-pretelli)  
-
-## LATEST NEWS & POSTS 
-**2016-01-31**: [Invoices for Zipbooks](https://itunes.apple.com/us/app/invoices-for-zipbooks/id1078032966?ls=1&mt=8) is available on the App Store  
-**2016-01-20**: [Merlo for twitter](http://www.merloapp.com) version 4.1.2 is now available  
-**2015-12-18**: [Merlo for twitter](http://www.merloapp.com) version 4.1.1 is now available  
-**2015-12-18**: [Merlo for twitter](http://www.merloapp.com) version 4.1.1 is now available  
-**2015-11-21**: [TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8) version 3.1.0 is now available   
-**2015-11-10**: [Merlo for twitter](http://www.merloapp.com) version 4.1.0 is now available  
-**2015-10-23**: [Introducing Merlo 4](https://medium.com/@xeo_it/introducing-merlo-4-ee492e4f089#.6t8jr192a)   
-**2015-10-20**: [Merlo for twitter](http://www.merloapp.com) version 4.0.0 is now available  
-**2015-05-10**: [Slide Calendar](https://github.com/xeo-it/slide-calendar) is here!  
-**2015-05-09**: [TimeMachine for twitter](https://itunes.apple.com/us/app/tweet-time-machine-2/id832124891?ls=1&mt=8) version 3.0.0 is now available    
-**2015-02-06**: [Readingpack](https://www.readingpack.com/ios) for iOS is now available on the App Store  
-**2014-12-06**: [Implement facebook login in Xamarin iOS](http://www.frapps.net/implement-facebook-login-in-xamarin-ios/)  
-**2014-12-06**: [Random rants from a random traveler](https://medium.com/@xeo_it/random-rants-from-a-random-traveller-572a477bfcd7#.a1ihnrmr1)  
-**2014-11-29**: [Develop and deploy iOS 8 extensions with Xamarin](https://medium.com/@xeo_it/develop-and-deploy-ios8-extensions-with-xamarin-walkthrough-1b059a03e861#.a17c8how2)   
+[AngelList](https://angel.co/timefrancesco)  
 
 <br>
 <br>
